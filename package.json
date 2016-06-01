@@ -16,7 +16,9 @@
     "node-setinterval",
     "call",
     "every",
-    "moment"
+    "moment",
+    "set",
+    "interval"
   ],
   "author": "Siddharth Jain",
   "license": "MIT",

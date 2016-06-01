@@ -21,8 +21,17 @@ var callEvery = function callEvery(duration) {
   };
 };
 
-// const callEveryFiveSeconds = callEvery('00:00:05');
+// const callEveryFiveSeconds = callEvery("00:00:05");
 //
-// callEveryFiveSeconds(()=> {console.log('WestCoastBestCoast');});
+// const logX = (x, y) => {
+//  console.log(x+y);
+// }
+
+// const timer1 = callEveryFiveSeconds(logX, "WestCoast", "BestCoast"); // Logs WestCoastBestCoast every 5 seconds
+//
+// const timer2 = callEvery("00:00:01")(logX, "a", "b"); // Alternatively
+//
+// clearInterval(timer1);
+// clearInterval(timer2);
 
 exports.default = callEvery;
