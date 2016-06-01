@@ -11,7 +11,7 @@ const callEvery = (duration) => {
 // const callEveryFiveSeconds = callEvery("00:00:05");
 //
 // const logX = (x, y) => {
-//  console.log(x);
+//  console.log(x+y);
 // }
 
 // const timer1 = callEveryFiveSeconds(logX, "WestCoast", "BestCoast"); // Logs WestCoastBestCoast every 5 seconds
