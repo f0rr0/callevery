@@ -21,7 +21,7 @@
   "author": "Siddharth Jain",
   "license": "MIT",
   "dependencies": {
-    "moment": "^2.13.0",
+    "moment": "^2.13.0"
   },
   "devDependencies": {
     "babel-cli": "^6.9.0",
