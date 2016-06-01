@@ -1,6 +1,6 @@
 {
   "name": "callevery",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "setInterval on steroids",
   "main": "build.js",
   "scripts": {
