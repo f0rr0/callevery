@@ -1,4 +1,7 @@
 #callEvery
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/f0rr0/callevery.svg)](https://greenkeeper.io/)
+
 setInterval on steroids for node.
 
 ##Usage
